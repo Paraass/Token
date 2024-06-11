@@ -57,6 +57,9 @@
     <li>Compile the contract using the Solidity compiler version 0.8.18.</li>
     <li>Deploy the contract to an Ethereum network (e.g., Ethereum mainnet, testnet, or local blockchain).</li>
 </ol>
+<h2>Authors</h2>
 
+Paras Aggarwal
+<br>Parasaggarwal7172gmail.com</br>
 </body>
 </html>
